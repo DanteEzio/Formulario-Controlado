@@ -41,7 +41,7 @@ const Formulario = ({agregarTodo}) => {
           position: "center",
           icon: "error",
           title: "Error!",
-          text: "No deje la descripcion en blaco",
+          text: "No deje la descripcion en blanco",
           timer: 1500,
         });
         return;
